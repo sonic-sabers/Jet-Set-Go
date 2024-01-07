@@ -1,6 +1,6 @@
 <lint-module
     format="1"
-    dir="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app"
+    dir="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/android/app"
     name=":app"
     type="APP"
     maven="JetSetGoo:app:"

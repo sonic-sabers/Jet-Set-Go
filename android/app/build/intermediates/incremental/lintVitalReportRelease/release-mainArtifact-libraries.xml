@@ -26,10 +26,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android@@:react-native-community_blur::release"
-      jars="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/@react-native-community/blur/android/build/.transforms/ac1f7d9f6d05569c3adcfe981b4e3109/transformed/out/jars/classes.jar:/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/@react-native-community/blur/android/build/.transforms/ac1f7d9f6d05569c3adcfe981b4e3109/transformed/out/jars/libs/R.jar"
+      name="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/android@@:react-native-community_blur::release"
+      jars="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/@react-native-community/blur/android/build/.transforms/5be614a1e69148b967ccd7a22d909487/transformed/out/jars/classes.jar:/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/@react-native-community/blur/android/build/.transforms/5be614a1e69148b967ccd7a22d909487/transformed/out/jars/libs/R.jar"
       resolved="JetSetGoo:react-native-community_blur:unspecified"
-      folder="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/@react-native-community/blur/android/build/.transforms/ac1f7d9f6d05569c3adcfe981b4e3109/transformed/out"
+      folder="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/@react-native-community/blur/android/build/.transforms/5be614a1e69148b967ccd7a22d909487/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -39,10 +39,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android@@:lottie-react-native::release"
-      jars="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/lottie-react-native/android/build/.transforms/72e3552241d7e6ed8e969c9037570cec/transformed/out/jars/classes.jar:/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/lottie-react-native/android/build/.transforms/72e3552241d7e6ed8e969c9037570cec/transformed/out/jars/libs/R.jar"
+      name="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/android@@:lottie-react-native::release"
+      jars="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/lottie-react-native/android/build/.transforms/c6617e67e2dbe9dcf1eeb3613009e948/transformed/out/jars/classes.jar:/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/lottie-react-native/android/build/.transforms/c6617e67e2dbe9dcf1eeb3613009e948/transformed/out/jars/libs/R.jar"
       resolved="JetSetGoo:lottie-react-native:unspecified"
-      folder="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/lottie-react-native/android/build/.transforms/72e3552241d7e6ed8e969c9037570cec/transformed/out"
+      folder="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/lottie-react-native/android/build/.transforms/c6617e67e2dbe9dcf1eeb3613009e948/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -52,10 +52,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android@@:react-native-config::release"
-      jars="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-config/android/build/.transforms/d8255db0d26ad309004e8456cb6ac205/transformed/out/jars/classes.jar:/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-config/android/build/.transforms/d8255db0d26ad309004e8456cb6ac205/transformed/out/jars/libs/R.jar"
+      name="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/android@@:react-native-config::release"
+      jars="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/react-native-config/android/build/.transforms/484cf282b953f7eadfca28325d2339b5/transformed/out/jars/classes.jar:/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/react-native-config/android/build/.transforms/484cf282b953f7eadfca28325d2339b5/transformed/out/jars/libs/R.jar"
       resolved="JetSetGoo:react-native-config:unspecified"
-      folder="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-config/android/build/.transforms/d8255db0d26ad309004e8456cb6ac205/transformed/out"
+      folder="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/react-native-config/android/build/.transforms/484cf282b953f7eadfca28325d2339b5/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -65,10 +65,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android@@:react-native-fast-image::release"
-      jars="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-fast-image/android/build/.transforms/371fc41891906f17c9eed348cc71b128/transformed/out/jars/classes.jar:/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-fast-image/android/build/.transforms/371fc41891906f17c9eed348cc71b128/transformed/out/jars/libs/R.jar"
+      name="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/android@@:react-native-fast-image::release"
+      jars="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/react-native-fast-image/android/build/.transforms/4eb920db54f99826bc90bc0d4693e954/transformed/out/jars/classes.jar:/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/react-native-fast-image/android/build/.transforms/4eb920db54f99826bc90bc0d4693e954/transformed/out/jars/libs/R.jar"
       resolved="JetSetGoo:react-native-fast-image:unspecified"
-      folder="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-fast-image/android/build/.transforms/371fc41891906f17c9eed348cc71b128/transformed/out"
+      folder="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/react-native-fast-image/android/build/.transforms/4eb920db54f99826bc90bc0d4693e954/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -78,10 +78,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android@@:react-native-fs::release"
-      jars="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-fs/android/build/.transforms/774463de8a8d18b1367be3b4e2cc81c5/transformed/out/jars/classes.jar:/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-fs/android/build/.transforms/774463de8a8d18b1367be3b4e2cc81c5/transformed/out/jars/libs/R.jar"
+      name="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/android@@:react-native-fs::release"
+      jars="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/react-native-fs/android/build/.transforms/8cb23e1b2660306fd613150ce47a5c8b/transformed/out/jars/classes.jar:/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/react-native-fs/android/build/.transforms/8cb23e1b2660306fd613150ce47a5c8b/transformed/out/jars/libs/R.jar"
       resolved="JetSetGoo:react-native-fs:unspecified"
-      folder="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-fs/android/build/.transforms/774463de8a8d18b1367be3b4e2cc81c5/transformed/out"
+      folder="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/react-native-fs/android/build/.transforms/8cb23e1b2660306fd613150ce47a5c8b/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -91,10 +91,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android@@:react-native-gesture-handler::release"
-      jars="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-gesture-handler/android/build/.transforms/141b971b5e31f3f1f1baae0e487b292a/transformed/out/jars/classes.jar:/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-gesture-handler/android/build/.transforms/141b971b5e31f3f1f1baae0e487b292a/transformed/out/jars/libs/R.jar"
+      name="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/android@@:react-native-gesture-handler::release"
+      jars="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/react-native-gesture-handler/android/build/.transforms/517c78a76ee3e09d8ee328361176ba9c/transformed/out/jars/classes.jar:/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/react-native-gesture-handler/android/build/.transforms/517c78a76ee3e09d8ee328361176ba9c/transformed/out/jars/libs/R.jar"
       resolved="JetSetGoo:react-native-gesture-handler:unspecified"
-      folder="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-gesture-handler/android/build/.transforms/141b971b5e31f3f1f1baae0e487b292a/transformed/out"
+      folder="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/react-native-gesture-handler/android/build/.transforms/517c78a76ee3e09d8ee328361176ba9c/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -104,10 +104,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android@@:react-native-reanimated::release"
-      jars="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-reanimated/android/build/.transforms/0869449877a5fa55e15e4d1495758aa0/transformed/out/jars/classes.jar:/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-reanimated/android/build/.transforms/0869449877a5fa55e15e4d1495758aa0/transformed/out/jars/libs/R.jar"
+      name="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/android@@:react-native-reanimated::release"
+      jars="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/react-native-reanimated/android/build/.transforms/70199392416642ab1cf7d314261bd359/transformed/out/jars/classes.jar:/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/react-native-reanimated/android/build/.transforms/70199392416642ab1cf7d314261bd359/transformed/out/jars/libs/R.jar"
       resolved="JetSetGoo:react-native-reanimated:unspecified"
-      folder="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-reanimated/android/build/.transforms/0869449877a5fa55e15e4d1495758aa0/transformed/out"
+      folder="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/react-native-reanimated/android/build/.transforms/70199392416642ab1cf7d314261bd359/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -117,10 +117,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android@@:react-native-safe-area-context::release"
-      jars="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-safe-area-context/android/build/.transforms/6791f8f9bc61145760a4b89265b68c25/transformed/out/jars/classes.jar:/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-safe-area-context/android/build/.transforms/6791f8f9bc61145760a4b89265b68c25/transformed/out/jars/libs/R.jar"
+      name="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/android@@:react-native-safe-area-context::release"
+      jars="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/react-native-safe-area-context/android/build/.transforms/6c6d20816079c943bf6c6c570f497d8b/transformed/out/jars/classes.jar:/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/react-native-safe-area-context/android/build/.transforms/6c6d20816079c943bf6c6c570f497d8b/transformed/out/jars/libs/R.jar"
       resolved="JetSetGoo:react-native-safe-area-context:unspecified"
-      folder="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-safe-area-context/android/build/.transforms/6791f8f9bc61145760a4b89265b68c25/transformed/out"
+      folder="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/react-native-safe-area-context/android/build/.transforms/6c6d20816079c943bf6c6c570f497d8b/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -130,10 +130,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android@@:react-native-screens::release"
-      jars="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-screens/android/build/.transforms/c6d11e50d9a2b89f47a946ca0c4b5cb9/transformed/out/jars/classes.jar:/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-screens/android/build/.transforms/c6d11e50d9a2b89f47a946ca0c4b5cb9/transformed/out/jars/libs/R.jar"
+      name="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/android@@:react-native-screens::release"
+      jars="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/react-native-screens/android/build/.transforms/854d1c34d1f0db465eb2d582037038dd/transformed/out/jars/classes.jar:/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/react-native-screens/android/build/.transforms/854d1c34d1f0db465eb2d582037038dd/transformed/out/jars/libs/R.jar"
       resolved="JetSetGoo:react-native-screens:unspecified"
-      folder="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-screens/android/build/.transforms/c6d11e50d9a2b89f47a946ca0c4b5cb9/transformed/out"
+      folder="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/react-native-screens/android/build/.transforms/854d1c34d1f0db465eb2d582037038dd/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -143,10 +143,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android@@:react-native-vector-icons::release"
-      jars="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-vector-icons/android/build/.transforms/ec21cea84064ae1faa318e44fcbb4f42/transformed/out/jars/classes.jar:/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-vector-icons/android/build/.transforms/ec21cea84064ae1faa318e44fcbb4f42/transformed/out/jars/libs/R.jar"
+      name="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/android@@:react-native-vector-icons::release"
+      jars="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/react-native-vector-icons/android/build/.transforms/076b76e50025e56f922ad4343d945312/transformed/out/jars/classes.jar:/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/react-native-vector-icons/android/build/.transforms/076b76e50025e56f922ad4343d945312/transformed/out/jars/libs/R.jar"
       resolved="JetSetGoo:react-native-vector-icons:unspecified"
-      folder="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-vector-icons/android/build/.transforms/ec21cea84064ae1faa318e44fcbb4f42/transformed/out"
+      folder="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/react-native-vector-icons/android/build/.transforms/076b76e50025e56f922ad4343d945312/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -156,10 +156,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android@@:rn-fetch-blob::release"
-      jars="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/.transforms/3372e6d770476dd657c85f8836e77c08/transformed/out/jars/classes.jar:/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/.transforms/3372e6d770476dd657c85f8836e77c08/transformed/out/jars/libs/R.jar"
+      name="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/android@@:rn-fetch-blob::release"
+      jars="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/rn-fetch-blob/android/build/.transforms/5615f04565d92e86f28696c48b6a5a01/transformed/out/jars/classes.jar:/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/rn-fetch-blob/android/build/.transforms/5615f04565d92e86f28696c48b6a5a01/transformed/out/jars/libs/R.jar"
       resolved="JetSetGoo:rn-fetch-blob:unspecified"
-      folder="/Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/.transforms/3372e6d770476dd657c85f8836e77c08/transformed/out"
+      folder="/Users/sonic-sabers/Desktop/Projs/Leo/JetSetGoo/node_modules/rn-fetch-blob/android/build/.transforms/5615f04565d92e86f28696c48b6a5a01/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
