@@ -1,0 +1,149 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.JetSetGoo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:3:5-67
+11-->/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:3:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->[:react-native-fs] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-fs/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-81
+12-->[:react-native-fs] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-fs/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:7:22-78
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> <!-- Required to access Google Play Licensing -->
+14    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+14-->[:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:8:5-73
+14-->[:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:8:22-70
+15    <!--
+16         Required to keep CPU alive while downloading files
+17        (NOT to keep screen awake)
+18    -->
+19    <uses-permission android:name="android.permission.WAKE_LOCK" />
+19-->[:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:17:5-68
+19-->[:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:17:22-65
+20    <!--
+21         Required to poll the state of the network connection
+22        and respond to changes
+23    -->
+24    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Required to check whether Wi-Fi is enabled -->
+24-->[:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:5-79
+24-->[:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:22-76
+25    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+25-->[:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:26:5-76
+25-->[:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:26:22-73
+26
+27    <permission
+27-->[androidx.core:core:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a9a43f1df9cf692f77cdeae9bc76fcff/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+28        android:name="com.JetSetGoo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+28-->[androidx.core:core:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a9a43f1df9cf692f77cdeae9bc76fcff/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+29        android:protectionLevel="signature" />
+29-->[androidx.core:core:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a9a43f1df9cf692f77cdeae9bc76fcff/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+30
+31    <uses-permission android:name="com.JetSetGoo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+31-->[androidx.core:core:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a9a43f1df9cf692f77cdeae9bc76fcff/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+31-->[androidx.core:core:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a9a43f1df9cf692f77cdeae9bc76fcff/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+32
+33    <application
+33-->/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:5:5-24:19
+34        android:name="com.JetSetGoo.MainApplication"
+34-->/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:6:7-38
+35        android:allowBackup="false"
+35-->/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:10:7-34
+36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+36-->[androidx.core:core:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a9a43f1df9cf692f77cdeae9bc76fcff/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+37        android:icon="@mipmap/ic_launcher"
+37-->/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:8:7-41
+38        android:label="@string/app_name"
+38-->/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:7:7-39
+39        android:roundIcon="@mipmap/ic_launcher_round"
+39-->/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:9:7-52
+40        android:theme="@style/AppTheme" >
+40-->/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:11:7-38
+41        <activity
+41-->/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:12:7-23:18
+42            android:name="com.JetSetGoo.MainActivity"
+42-->/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:13:9-37
+43            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+43-->/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:15:9-118
+44            android:exported="true"
+44-->/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:18:9-32
+45            android:label="@string/app_name"
+45-->/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:14:9-41
+46            android:launchMode="singleTask"
+46-->/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:16:9-40
+47            android:windowSoftInputMode="adjustResize" >
+47-->/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:17:9-51
+48            <intent-filter>
+48-->/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:19:9-22:25
+49                <action android:name="android.intent.action.MAIN" />
+49-->/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:20:13-65
+49-->/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:20:21-62
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:21:13-73
+51-->/Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:21:23-70
+52            </intent-filter>
+53        </activity>
+54
+55        <provider
+55-->[:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:32:9-40:20
+56            android:name="com.RNFetchBlob.Utils.FileProvider"
+56-->[:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:33:13-62
+57            android:authorities="com.JetSetGoo.provider"
+57-->[:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:34:13-60
+58            android:exported="false"
+58-->[:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:35:13-37
+59            android:grantUriPermissions="true" >
+59-->[:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:36:13-47
+60            <meta-data
+60-->[:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:37:13-39:58
+61                android:name="android.support.FILE_PROVIDER_PATHS"
+61-->[:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:38:17-67
+62                android:resource="@xml/provider_paths" />
+62-->[:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:39:17-55
+63        </provider>
+64
+65        <meta-data
+65-->[com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/sonic-sabers/.gradle/caches/transforms-3/e4ea6c170288ea3325c725152f19f2f7/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:11:9-13:43
+66            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+66-->[com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/sonic-sabers/.gradle/caches/transforms-3/e4ea6c170288ea3325c725152f19f2f7/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:12:13-84
+67            android:value="GlideModule" />
+67-->[com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/sonic-sabers/.gradle/caches/transforms-3/e4ea6c170288ea3325c725152f19f2f7/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:13:13-40
+68
+69        <provider
+69-->[androidx.emoji2:emoji2:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a7fcb4bde4accbbfad746422f2d36826/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+70            android:name="androidx.startup.InitializationProvider"
+70-->[androidx.emoji2:emoji2:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a7fcb4bde4accbbfad746422f2d36826/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+71            android:authorities="com.JetSetGoo.androidx-startup"
+71-->[androidx.emoji2:emoji2:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a7fcb4bde4accbbfad746422f2d36826/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+72            android:exported="false" >
+72-->[androidx.emoji2:emoji2:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a7fcb4bde4accbbfad746422f2d36826/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+73            <meta-data
+73-->[androidx.emoji2:emoji2:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a7fcb4bde4accbbfad746422f2d36826/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+74                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+74-->[androidx.emoji2:emoji2:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a7fcb4bde4accbbfad746422f2d36826/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+75                android:value="androidx.startup" />
+75-->[androidx.emoji2:emoji2:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a7fcb4bde4accbbfad746422f2d36826/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+76            <meta-data
+76-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/sonic-sabers/.gradle/caches/transforms-3/93aac1e3cf55a4a296127d6686343697/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+77                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+77-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/sonic-sabers/.gradle/caches/transforms-3/93aac1e3cf55a4a296127d6686343697/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+78                android:value="androidx.startup" />
+78-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/sonic-sabers/.gradle/caches/transforms-3/93aac1e3cf55a4a296127d6686343697/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+79        </provider>
+80
+81        <meta-data
+81-->[com.facebook.soloader:soloader:0.10.5] /Users/sonic-sabers/.gradle/caches/transforms-3/55ee625b5d9eac245c1bc1a60cdb09bf/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:12:9-14:37
+82            android:name="com.facebook.soloader.enabled"
+82-->[com.facebook.soloader:soloader:0.10.5] /Users/sonic-sabers/.gradle/caches/transforms-3/55ee625b5d9eac245c1bc1a60cdb09bf/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:13:13-57
+83            android:value="false" />
+83-->[com.facebook.soloader:soloader:0.10.5] /Users/sonic-sabers/.gradle/caches/transforms-3/55ee625b5d9eac245c1bc1a60cdb09bf/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:14:13-34
+84    </application>
+85
+86</manifest>

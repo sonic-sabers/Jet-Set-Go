@@ -1,0 +1,443 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:1:1-25:12
+MERGED from [:react-native-community_blur] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/@react-native-community/blur/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:lottie-react-native] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/lottie-react-native/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-config] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-config/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-fast-image] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-fast-image/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-fs] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-fs/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-reanimated] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-safe-area-context] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-screens] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-vector-icons] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-43:12
+MERGED from [com.facebook.react:react-android:0.72.7] /Users/sonic-sabers/.gradle/caches/transforms-3/411a45274157a8eb9f1b40dc0eb9bde1/transformed/jetified-react-android-0.72.7-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:hermes-android:0.72.7] /Users/sonic-sabers/.gradle/caches/transforms-3/0f78c6443202d74d0e73c7e2476b1dff/transformed/jetified-hermes-android-0.72.7-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.airbnb.android:lottie:6.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/82419ed70ab83a00ed79e9c99e7952e2/transformed/jetified-lottie-6.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/e6dc00ef217f4441c4ae95c1ff10351b/transformed/material-1.9.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/sonic-sabers/.gradle/caches/transforms-3/2e3e9168b10a10eb5969e2145f598d04/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/sonic-sabers/.gradle/caches/transforms-3/a93c36fe218f9f69a8b118f3d76b623b/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/sonic-sabers/.gradle/caches/transforms-3/68fe890dccb6eb48e47794ea32a8696c/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/sonic-sabers/.gradle/caches/transforms-3/f7eec96a3a8c47d0a3dd0b0c0c84fd69/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/sonic-sabers/.gradle/caches/transforms-3/3ac96d93ca40c00c552f50e66b6f2672/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/sonic-sabers/.gradle/caches/transforms-3/e4ea6c170288ea3325c725152f19f2f7/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/sonic-sabers/.gradle/caches/transforms-3/b2163230bec3ee4c28a0be404a71f544/transformed/jetified-glide-4.12.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/b21a92842e5c2863138360bf1f35f0df/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/sonic-sabers/.gradle/caches/transforms-3/ec9c523758d5f1f7e9a1e0f9fb406cb3/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a261f11922c46741bb3abf1976f54ab0/transformed/jetified-activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a653d00edd544e0dc418885128bc43a5/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a7fcb4bde4accbbfad746422f2d36826/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/sonic-sabers/.gradle/caches/transforms-3/93aac1e3cf55a4a296127d6686343697/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/sonic-sabers/.gradle/caches/transforms-3/107940ba859357c5abacc2f6c4e1d5f8/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/sonic-sabers/.gradle/caches/transforms-3/447d6b144893775142bd0199f2fdf8a2/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /Users/sonic-sabers/.gradle/caches/transforms-3/b1ddec695ccb88a1dfa436e15fc76049/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/90a2dd64b208432bc412274fdeefef56/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/c0c93332427e7138131a5f676b040bd7/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/ca8666b2a369f9edafe6da17c77320b6/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/6a9a1df696684eb1701c3f7657f61aa3/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/69b8545c0d1592cc0ec192a23a1da2c0/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/e9394eef13413fca12d3c667522bd721/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/e51f89e0cdb518be973cab81fa9a5d80/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/65d57685dcb11cdeb1acd90d4cd0cf94/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/85d7c17bceb49bfbad4df071261542a4/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/d9da95b85300939f4bf2a0fac4fc9cae/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/fa85695ab8da2101f79db28f91a355e2/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/0a08542137234f6db7302e523848fa95/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/4c3ad6490b8fe1ff07747e437dfe67ab/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/f483b1817db58392e6a4bdf5de6b361a/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/sonic-sabers/.gradle/caches/transforms-3/55ee625b5d9eac245c1bc1a60cdb09bf/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/3d9aaefd72fc6557f1112942d727263f/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a698270ff9c22c7ef89f0a57bb5446a5/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/721179a57d78aef30aeff45ad6038d41/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/sonic-sabers/.gradle/caches/transforms-3/88f9bcf81dead9cbbf5f8bffcd9fdcd1/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/sonic-sabers/.gradle/caches/transforms-3/cca1e526f071bec56afe06219f2ce502/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.Dimezis:BlurView:version-2.0.3] /Users/sonic-sabers/.gradle/caches/transforms-3/d7a521e7ebd7b4d97ec4c827a9d93960/transformed/jetified-BlurView-version-2.0.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/3e56e2ad0876501e5d32017b80255d2f/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sonic-sabers/.gradle/caches/transforms-3/02334503daeb54126adff9a324f186ab/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sonic-sabers/.gradle/caches/transforms-3/b6012c305b330738b7f481864e831716/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/sonic-sabers/.gradle/caches/transforms-3/6f48531b04ba54e8f81cd0d649360d1e/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/c7ea6429b7abb4589cf17b6c21f58323/transformed/exifinterface-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/ab007c79121a1430d762eb3558b0b081/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/c77f0e2e7faef4ced1d58b13cb5ab215/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/8f77ad5840b314043b044b1d95701ed5/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/sonic-sabers/.gradle/caches/transforms-3/141df8b56916f760edcaffcc7667d4f1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sonic-sabers/.gradle/caches/transforms-3/f8cd26f9854ad4b1ec5a292fe2518bf4/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/sonic-sabers/.gradle/caches/transforms-3/847709b0feb7f83005d8e5e0c0c2aa43/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/3ad7b9844e8ce96308b3b3502c83301c/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a9a43f1df9cf692f77cdeae9bc76fcff/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sonic-sabers/.gradle/caches/transforms-3/6f92f2df5de7eb4ef41bf2c4974fec80/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/3e2393599cf2fa64256e4413bc534f5a/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/sonic-sabers/.gradle/caches/transforms-3/23781af0ef29c21a4abb0127389d995c/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/40c2cb4bb83ee5a04953c97b4135773b/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/5b2ec0452618a07e7071b013df2cba44/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/8619902347525355238ca5e7f49e4828/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/sonic-sabers/.gradle/caches/transforms-3/0955b36790d02e631892bc2047538a14/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sonic-sabers/.gradle/caches/transforms-3/4682d0ac636e75a2ed4723ae76da1739/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/1688ea93f0ade6d0fc00e8fd700485a1/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a71a43802f3e23cfaf1dc914721cf92a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/f5df7ca6f1362c63139c4d9be851cb9b/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/sonic-sabers/.gradle/caches/transforms-3/f49747a0530a527d643331d0d6b17253/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/2675542a90c2254738cf1f012b497b14/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:1:1-25:12
+	package
+		INJECTED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:3:5-67
+MERGED from [:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:3:22-64
+application
+ADDED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from [:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:31:5-41:19
+MERGED from [:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:31:5-41:19
+MERGED from [com.airbnb.android:lottie:6.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/82419ed70ab83a00ed79e9c99e7952e2/transformed/jetified-lottie-6.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.airbnb.android:lottie:6.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/82419ed70ab83a00ed79e9c99e7952e2/transformed/jetified-lottie-6.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.material:material:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/e6dc00ef217f4441c4ae95c1ff10351b/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/e6dc00ef217f4441c4ae95c1ff10351b/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/sonic-sabers/.gradle/caches/transforms-3/2e3e9168b10a10eb5969e2145f598d04/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/sonic-sabers/.gradle/caches/transforms-3/2e3e9168b10a10eb5969e2145f598d04/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/sonic-sabers/.gradle/caches/transforms-3/e4ea6c170288ea3325c725152f19f2f7/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/sonic-sabers/.gradle/caches/transforms-3/e4ea6c170288ea3325c725152f19f2f7/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/sonic-sabers/.gradle/caches/transforms-3/b2163230bec3ee4c28a0be404a71f544/transformed/jetified-glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/sonic-sabers/.gradle/caches/transforms-3/b2163230bec3ee4c28a0be404a71f544/transformed/jetified-glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a7fcb4bde4accbbfad746422f2d36826/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a7fcb4bde4accbbfad746422f2d36826/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/sonic-sabers/.gradle/caches/transforms-3/93aac1e3cf55a4a296127d6686343697/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/sonic-sabers/.gradle/caches/transforms-3/93aac1e3cf55a4a296127d6686343697/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/sonic-sabers/.gradle/caches/transforms-3/107940ba859357c5abacc2f6c4e1d5f8/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/sonic-sabers/.gradle/caches/transforms-3/107940ba859357c5abacc2f6c4e1d5f8/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/sonic-sabers/.gradle/caches/transforms-3/55ee625b5d9eac245c1bc1a60cdb09bf/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/sonic-sabers/.gradle/caches/transforms-3/55ee625b5d9eac245c1bc1a60cdb09bf/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.Dimezis:BlurView:version-2.0.3] /Users/sonic-sabers/.gradle/caches/transforms-3/d7a521e7ebd7b4d97ec4c827a9d93960/transformed/jetified-BlurView-version-2.0.3/AndroidManifest.xml:9:5-20
+MERGED from [com.github.Dimezis:BlurView:version-2.0.3] /Users/sonic-sabers/.gradle/caches/transforms-3/d7a521e7ebd7b4d97ec4c827a9d93960/transformed/jetified-BlurView-version-2.0.3/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/sonic-sabers/.gradle/caches/transforms-3/6f48531b04ba54e8f81cd0d649360d1e/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/sonic-sabers/.gradle/caches/transforms-3/6f48531b04ba54e8f81cd0d649360d1e/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a9a43f1df9cf692f77cdeae9bc76fcff/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a9a43f1df9cf692f77cdeae9bc76fcff/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sonic-sabers/.gradle/caches/transforms-3/6f92f2df5de7eb4ef41bf2c4974fec80/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sonic-sabers/.gradle/caches/transforms-3/6f92f2df5de7eb4ef41bf2c4974fec80/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a9a43f1df9cf692f77cdeae9bc76fcff/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:7:7-39
+	android:roundIcon
+		ADDED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:9:7-52
+	android:icon
+		ADDED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:8:7-41
+	android:allowBackup
+		ADDED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:10:7-34
+	android:theme
+		ADDED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:11:7-38
+	android:name
+		ADDED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:6:7-38
+activity#com.JetSetGoo.MainActivity
+ADDED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:12:7-23:18
+	android:label
+		ADDED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:14:9-41
+	android:launchMode
+		ADDED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:16:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:exported
+		ADDED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:18:9-32
+	android:configChanges
+		ADDED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:15:9-118
+	android:name
+		ADDED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:13:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:21:23-70
+uses-sdk
+INJECTED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-community_blur] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/@react-native-community/blur/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-community_blur] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/@react-native-community/blur/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:lottie-react-native] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/lottie-react-native/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:lottie-react-native] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/lottie-react-native/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-config] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-config/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-config] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-config/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-fast-image] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-fast-image/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-fast-image] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-fast-image/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-fs] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-fs/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-fs] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-fs/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-gesture-handler] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-gesture-handler] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-reanimated] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-reanimated] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-vector-icons] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-vector-icons] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-android:0.72.7] /Users/sonic-sabers/.gradle/caches/transforms-3/411a45274157a8eb9f1b40dc0eb9bde1/transformed/jetified-react-android-0.72.7-release/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-android:0.72.7] /Users/sonic-sabers/.gradle/caches/transforms-3/411a45274157a8eb9f1b40dc0eb9bde1/transformed/jetified-react-android-0.72.7-release/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:hermes-android:0.72.7] /Users/sonic-sabers/.gradle/caches/transforms-3/0f78c6443202d74d0e73c7e2476b1dff/transformed/jetified-hermes-android-0.72.7-release/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:hermes-android:0.72.7] /Users/sonic-sabers/.gradle/caches/transforms-3/0f78c6443202d74d0e73c7e2476b1dff/transformed/jetified-hermes-android-0.72.7-release/AndroidManifest.xml:5:5-44
+MERGED from [com.airbnb.android:lottie:6.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/82419ed70ab83a00ed79e9c99e7952e2/transformed/jetified-lottie-6.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.airbnb.android:lottie:6.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/82419ed70ab83a00ed79e9c99e7952e2/transformed/jetified-lottie-6.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/e6dc00ef217f4441c4ae95c1ff10351b/transformed/material-1.9.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/e6dc00ef217f4441c4ae95c1ff10351b/transformed/material-1.9.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/sonic-sabers/.gradle/caches/transforms-3/2e3e9168b10a10eb5969e2145f598d04/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/sonic-sabers/.gradle/caches/transforms-3/2e3e9168b10a10eb5969e2145f598d04/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/sonic-sabers/.gradle/caches/transforms-3/a93c36fe218f9f69a8b118f3d76b623b/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/sonic-sabers/.gradle/caches/transforms-3/a93c36fe218f9f69a8b118f3d76b623b/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/sonic-sabers/.gradle/caches/transforms-3/68fe890dccb6eb48e47794ea32a8696c/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/sonic-sabers/.gradle/caches/transforms-3/68fe890dccb6eb48e47794ea32a8696c/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/sonic-sabers/.gradle/caches/transforms-3/f7eec96a3a8c47d0a3dd0b0c0c84fd69/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/sonic-sabers/.gradle/caches/transforms-3/f7eec96a3a8c47d0a3dd0b0c0c84fd69/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/sonic-sabers/.gradle/caches/transforms-3/3ac96d93ca40c00c552f50e66b6f2672/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/sonic-sabers/.gradle/caches/transforms-3/3ac96d93ca40c00c552f50e66b6f2672/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/sonic-sabers/.gradle/caches/transforms-3/e4ea6c170288ea3325c725152f19f2f7/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/sonic-sabers/.gradle/caches/transforms-3/e4ea6c170288ea3325c725152f19f2f7/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/sonic-sabers/.gradle/caches/transforms-3/b2163230bec3ee4c28a0be404a71f544/transformed/jetified-glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/sonic-sabers/.gradle/caches/transforms-3/b2163230bec3ee4c28a0be404a71f544/transformed/jetified-glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/b21a92842e5c2863138360bf1f35f0df/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/b21a92842e5c2863138360bf1f35f0df/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/sonic-sabers/.gradle/caches/transforms-3/ec9c523758d5f1f7e9a1e0f9fb406cb3/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/sonic-sabers/.gradle/caches/transforms-3/ec9c523758d5f1f7e9a1e0f9fb406cb3/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a261f11922c46741bb3abf1976f54ab0/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a261f11922c46741bb3abf1976f54ab0/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a653d00edd544e0dc418885128bc43a5/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a653d00edd544e0dc418885128bc43a5/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a7fcb4bde4accbbfad746422f2d36826/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a7fcb4bde4accbbfad746422f2d36826/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/sonic-sabers/.gradle/caches/transforms-3/93aac1e3cf55a4a296127d6686343697/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/sonic-sabers/.gradle/caches/transforms-3/93aac1e3cf55a4a296127d6686343697/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/sonic-sabers/.gradle/caches/transforms-3/107940ba859357c5abacc2f6c4e1d5f8/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/sonic-sabers/.gradle/caches/transforms-3/107940ba859357c5abacc2f6c4e1d5f8/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/sonic-sabers/.gradle/caches/transforms-3/447d6b144893775142bd0199f2fdf8a2/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/sonic-sabers/.gradle/caches/transforms-3/447d6b144893775142bd0199f2fdf8a2/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /Users/sonic-sabers/.gradle/caches/transforms-3/b1ddec695ccb88a1dfa436e15fc76049/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /Users/sonic-sabers/.gradle/caches/transforms-3/b1ddec695ccb88a1dfa436e15fc76049/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/90a2dd64b208432bc412274fdeefef56/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/90a2dd64b208432bc412274fdeefef56/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/c0c93332427e7138131a5f676b040bd7/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/c0c93332427e7138131a5f676b040bd7/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/ca8666b2a369f9edafe6da17c77320b6/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/ca8666b2a369f9edafe6da17c77320b6/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/6a9a1df696684eb1701c3f7657f61aa3/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/6a9a1df696684eb1701c3f7657f61aa3/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/69b8545c0d1592cc0ec192a23a1da2c0/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/69b8545c0d1592cc0ec192a23a1da2c0/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/e9394eef13413fca12d3c667522bd721/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/e9394eef13413fca12d3c667522bd721/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/e51f89e0cdb518be973cab81fa9a5d80/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/e51f89e0cdb518be973cab81fa9a5d80/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/65d57685dcb11cdeb1acd90d4cd0cf94/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/65d57685dcb11cdeb1acd90d4cd0cf94/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/85d7c17bceb49bfbad4df071261542a4/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/85d7c17bceb49bfbad4df071261542a4/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/d9da95b85300939f4bf2a0fac4fc9cae/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/d9da95b85300939f4bf2a0fac4fc9cae/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/fa85695ab8da2101f79db28f91a355e2/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/fa85695ab8da2101f79db28f91a355e2/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/0a08542137234f6db7302e523848fa95/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/0a08542137234f6db7302e523848fa95/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/4c3ad6490b8fe1ff07747e437dfe67ab/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/4c3ad6490b8fe1ff07747e437dfe67ab/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/f483b1817db58392e6a4bdf5de6b361a/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/f483b1817db58392e6a4bdf5de6b361a/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/sonic-sabers/.gradle/caches/transforms-3/55ee625b5d9eac245c1bc1a60cdb09bf/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/sonic-sabers/.gradle/caches/transforms-3/55ee625b5d9eac245c1bc1a60cdb09bf/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/3d9aaefd72fc6557f1112942d727263f/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/3d9aaefd72fc6557f1112942d727263f/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a698270ff9c22c7ef89f0a57bb5446a5/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a698270ff9c22c7ef89f0a57bb5446a5/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/721179a57d78aef30aeff45ad6038d41/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/721179a57d78aef30aeff45ad6038d41/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/sonic-sabers/.gradle/caches/transforms-3/88f9bcf81dead9cbbf5f8bffcd9fdcd1/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/sonic-sabers/.gradle/caches/transforms-3/88f9bcf81dead9cbbf5f8bffcd9fdcd1/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/sonic-sabers/.gradle/caches/transforms-3/cca1e526f071bec56afe06219f2ce502/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/sonic-sabers/.gradle/caches/transforms-3/cca1e526f071bec56afe06219f2ce502/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.Dimezis:BlurView:version-2.0.3] /Users/sonic-sabers/.gradle/caches/transforms-3/d7a521e7ebd7b4d97ec4c827a9d93960/transformed/jetified-BlurView-version-2.0.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.Dimezis:BlurView:version-2.0.3] /Users/sonic-sabers/.gradle/caches/transforms-3/d7a521e7ebd7b4d97ec4c827a9d93960/transformed/jetified-BlurView-version-2.0.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/3e56e2ad0876501e5d32017b80255d2f/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/3e56e2ad0876501e5d32017b80255d2f/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sonic-sabers/.gradle/caches/transforms-3/02334503daeb54126adff9a324f186ab/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sonic-sabers/.gradle/caches/transforms-3/02334503daeb54126adff9a324f186ab/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sonic-sabers/.gradle/caches/transforms-3/b6012c305b330738b7f481864e831716/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sonic-sabers/.gradle/caches/transforms-3/b6012c305b330738b7f481864e831716/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/sonic-sabers/.gradle/caches/transforms-3/6f48531b04ba54e8f81cd0d649360d1e/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/sonic-sabers/.gradle/caches/transforms-3/6f48531b04ba54e8f81cd0d649360d1e/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/c7ea6429b7abb4589cf17b6c21f58323/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/c7ea6429b7abb4589cf17b6c21f58323/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/ab007c79121a1430d762eb3558b0b081/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/ab007c79121a1430d762eb3558b0b081/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/c77f0e2e7faef4ced1d58b13cb5ab215/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/c77f0e2e7faef4ced1d58b13cb5ab215/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/8f77ad5840b314043b044b1d95701ed5/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/8f77ad5840b314043b044b1d95701ed5/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/sonic-sabers/.gradle/caches/transforms-3/141df8b56916f760edcaffcc7667d4f1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/sonic-sabers/.gradle/caches/transforms-3/141df8b56916f760edcaffcc7667d4f1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sonic-sabers/.gradle/caches/transforms-3/f8cd26f9854ad4b1ec5a292fe2518bf4/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sonic-sabers/.gradle/caches/transforms-3/f8cd26f9854ad4b1ec5a292fe2518bf4/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/sonic-sabers/.gradle/caches/transforms-3/847709b0feb7f83005d8e5e0c0c2aa43/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/sonic-sabers/.gradle/caches/transforms-3/847709b0feb7f83005d8e5e0c0c2aa43/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/3ad7b9844e8ce96308b3b3502c83301c/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/3ad7b9844e8ce96308b3b3502c83301c/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a9a43f1df9cf692f77cdeae9bc76fcff/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a9a43f1df9cf692f77cdeae9bc76fcff/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sonic-sabers/.gradle/caches/transforms-3/6f92f2df5de7eb4ef41bf2c4974fec80/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sonic-sabers/.gradle/caches/transforms-3/6f92f2df5de7eb4ef41bf2c4974fec80/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/3e2393599cf2fa64256e4413bc534f5a/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/3e2393599cf2fa64256e4413bc534f5a/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/sonic-sabers/.gradle/caches/transforms-3/23781af0ef29c21a4abb0127389d995c/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/sonic-sabers/.gradle/caches/transforms-3/23781af0ef29c21a4abb0127389d995c/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/40c2cb4bb83ee5a04953c97b4135773b/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/40c2cb4bb83ee5a04953c97b4135773b/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/5b2ec0452618a07e7071b013df2cba44/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/5b2ec0452618a07e7071b013df2cba44/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/8619902347525355238ca5e7f49e4828/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/8619902347525355238ca5e7f49e4828/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/sonic-sabers/.gradle/caches/transforms-3/0955b36790d02e631892bc2047538a14/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/sonic-sabers/.gradle/caches/transforms-3/0955b36790d02e631892bc2047538a14/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sonic-sabers/.gradle/caches/transforms-3/4682d0ac636e75a2ed4723ae76da1739/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sonic-sabers/.gradle/caches/transforms-3/4682d0ac636e75a2ed4723ae76da1739/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/1688ea93f0ade6d0fc00e8fd700485a1/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/1688ea93f0ade6d0fc00e8fd700485a1/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a71a43802f3e23cfaf1dc914721cf92a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a71a43802f3e23cfaf1dc914721cf92a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/f5df7ca6f1362c63139c4d9be851cb9b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sonic-sabers/.gradle/caches/transforms-3/f5df7ca6f1362c63139c4d9be851cb9b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/sonic-sabers/.gradle/caches/transforms-3/f49747a0530a527d643331d0d6b17253/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/sonic-sabers/.gradle/caches/transforms-3/f49747a0530a527d643331d0d6b17253/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/2675542a90c2254738cf1f012b497b14/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/sonic-sabers/.gradle/caches/transforms-3/2675542a90c2254738cf1f012b497b14/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:react-native-fs] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-fs/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-81
+MERGED from [:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:29:5-81
+MERGED from [:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from [:react-native-fs] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/react-native-fs/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/sonic-sabers/Desktop/Projs/Leo/meroku/android/app/src/main/AndroidManifest.xml:1:1-25:12 reason: com.rnfs requested WRITE_EXTERNAL_STORAGE
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:8:5-73
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:8:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:17:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:26:5-76
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:26:22-73
+provider#com.RNFetchBlob.Utils.FileProvider
+ADDED from [:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:32:9-40:20
+	android:grantUriPermissions
+		ADDED from [:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:36:13-47
+	android:authorities
+		ADDED from [:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:34:13-60
+	android:exported
+		ADDED from [:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:33:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:37:13-39:58
+	android:resource
+		ADDED from [:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:39:17-55
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/sonic-sabers/Desktop/Projs/Leo/meroku/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:38:17-67
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/sonic-sabers/.gradle/caches/transforms-3/e4ea6c170288ea3325c725152f19f2f7/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:11:9-13:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/sonic-sabers/.gradle/caches/transforms-3/e4ea6c170288ea3325c725152f19f2f7/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:13:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/sonic-sabers/.gradle/caches/transforms-3/e4ea6c170288ea3325c725152f19f2f7/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:12:13-84
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a7fcb4bde4accbbfad746422f2d36826/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/sonic-sabers/.gradle/caches/transforms-3/93aac1e3cf55a4a296127d6686343697/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/sonic-sabers/.gradle/caches/transforms-3/93aac1e3cf55a4a296127d6686343697/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/sonic-sabers/.gradle/caches/transforms-3/107940ba859357c5abacc2f6c4e1d5f8/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/sonic-sabers/.gradle/caches/transforms-3/107940ba859357c5abacc2f6c4e1d5f8/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a7fcb4bde4accbbfad746422f2d36826/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a7fcb4bde4accbbfad746422f2d36826/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a7fcb4bde4accbbfad746422f2d36826/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a7fcb4bde4accbbfad746422f2d36826/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a7fcb4bde4accbbfad746422f2d36826/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a7fcb4bde4accbbfad746422f2d36826/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a7fcb4bde4accbbfad746422f2d36826/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/sonic-sabers/.gradle/caches/transforms-3/93aac1e3cf55a4a296127d6686343697/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/sonic-sabers/.gradle/caches/transforms-3/93aac1e3cf55a4a296127d6686343697/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/sonic-sabers/.gradle/caches/transforms-3/93aac1e3cf55a4a296127d6686343697/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+meta-data#com.facebook.soloader.enabled
+ADDED from [com.facebook.soloader:soloader:0.10.5] /Users/sonic-sabers/.gradle/caches/transforms-3/55ee625b5d9eac245c1bc1a60cdb09bf/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:12:9-14:37
+	android:value
+		ADDED from [com.facebook.soloader:soloader:0.10.5] /Users/sonic-sabers/.gradle/caches/transforms-3/55ee625b5d9eac245c1bc1a60cdb09bf/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:14:13-34
+	android:name
+		ADDED from [com.facebook.soloader:soloader:0.10.5] /Users/sonic-sabers/.gradle/caches/transforms-3/55ee625b5d9eac245c1bc1a60cdb09bf/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:13:13-57
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a9a43f1df9cf692f77cdeae9bc76fcff/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a9a43f1df9cf692f77cdeae9bc76fcff/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a9a43f1df9cf692f77cdeae9bc76fcff/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.JetSetGoo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a9a43f1df9cf692f77cdeae9bc76fcff/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a9a43f1df9cf692f77cdeae9bc76fcff/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a9a43f1df9cf692f77cdeae9bc76fcff/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a9a43f1df9cf692f77cdeae9bc76fcff/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a9a43f1df9cf692f77cdeae9bc76fcff/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.JetSetGoo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a9a43f1df9cf692f77cdeae9bc76fcff/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/sonic-sabers/.gradle/caches/transforms-3/a9a43f1df9cf692f77cdeae9bc76fcff/transformed/core-1.9.0/AndroidManifest.xml:26:22-94

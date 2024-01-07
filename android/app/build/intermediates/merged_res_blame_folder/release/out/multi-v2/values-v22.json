@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.JetSetGoo.app-mergeReleaseResources-36:/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/Users/sonic-sabers/.gradle/caches/transforms-3/a93c36fe218f9f69a8b118f3d76b623b/transformed/appcompat-1.6.1/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,487",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,482,764"
+                    }
+                }
+            ]
+        }
+    ]
+}

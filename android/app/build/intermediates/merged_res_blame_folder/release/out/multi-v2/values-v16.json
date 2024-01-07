@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.JetSetGoo.app-mergeReleaseResources-36:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/sonic-sabers/.gradle/caches/transforms-3/a9a43f1df9cf692f77cdeae9bc76fcff/transformed/core-1.9.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/sonic-sabers/.gradle/caches/transforms-3/a93c36fe218f9f69a8b118f3d76b623b/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}
