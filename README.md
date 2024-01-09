@@ -1,9 +1,16 @@
 # About
 This project includes the flight booking flow along with seat selection which is focused on to make a great user experience
 
-|                          Splash Screen                        |                          Form Screen                          |                         Details Screen                        |
+|                          Splash Screen                        |                          Home Screen                          |                    Flight Filter Screen                       |
 | :-----------------------------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------------------------: |
-![](/Screen-ui/Splash.jpg)| ![](/snapshots/NuTomAppForm.jpg)| ![](/snapshots/Details1.jpg)| 
+![](/Screen-ui/Splash.jpg)| ![](/Screen-ui/Home.png)| ![](/Screen-ui/FlightFilter.png)| 
+
+|                          Modal Filter                        |                          Flight Details Screen                 |                         Flight Seating                        |
+| :-----------------------------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------------------------: |
+![](/Screen-ui/AppliedBottomFilter.png)| ![](/Screen-ui/FlightDetails.png)| ![](/Screen-ui/FlightSeatBooking.png)| 
+|                          Cost Breakup                         |
+| :-----------------------------------------------------------: |
+![](/Screen-ui/CostBreakup.png)| 
 
 # Getting Started
 
