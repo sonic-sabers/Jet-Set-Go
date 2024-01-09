@@ -1,4 +1,8 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# About
+This project includes the flight booking flow along with seat selection which is focused on to make a great user experience
+
+
+
 
 # Getting Started
 
