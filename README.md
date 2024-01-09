@@ -1,8 +1,20 @@
 # About
 This project includes the flight booking flow along with seat selection which is focused on to make a great user experience
 
+Splash Screen
+https://cdn.discordapp.com/attachments/513649767729987585/1193470285765152809/Screenshot_2024-01-07-13-46-55-899_com.JetSetGoo.jpg?ex=65acd4d1&is=659a5fd1&hm=b70388b1e7519a2a6f600a26be576e80db383cf6f55657689e3f00b0f723a9dd&
+https://cdn.discordapp.com/attachments/513649767729987585/1193470286050373693/Screenshot_2024-01-07-13-47-02-300_com.JetSetGoo.jpg?ex=65acd4d1&is=659a5fd1&hm=b8667e4dd3ca825d289bc133da0efe8440711d67fa92275ee3ce796f81c7211c&
+
+Filters
+https://cdn.discordapp.com/attachments/513649767729987585/1193470264671997962/Screenshot_2024-01-07-13-47-14-127_com.JetSetGoo.jpg?ex=65acd4cc&is=659a5fcc&hm=0ea9e1c17918f8b840d84e13ee319ac5f4bf816b7925bb161f271ff50bc2e691&
+https://cdn.discordapp.com/attachments/513649767729987585/1193470263740862504/Screenshot_2024-01-07-13-47-29-859_com.JetSetGoo.jpg?ex=65acd4cc&is=659a5fcc&hm=d65b8ee9f12e33adc9d095f466d8a94ed73c3a80c50b17b19ceb3091dd822e36&
+https://cdn.discordapp.com/attachments/513649767729987585/1193470263447257138/Screenshot_2024-01-07-13-47-38-833_com.JetSetGoo.jpg?ex=65acd4cc&is=659a5fcc&hm=08114db1e2d3c9b94e4091aa36fe15435c4113bfba4b865c96b4241387b1827c&
 
 
+Seat Booking and details
+https://cdn.discordapp.com/attachments/513649767729987585/1193470263153668166/Screenshot_2024-01-07-13-47-46-832_com.JetSetGoo.jpg?ex=65acd4cc&is=659a5fcc&hm=1ed5cb19c7ef4e13c4426f93de6f70819a202529592b45af57bbb257c64ef32f&
+https://cdn.discordapp.com/attachments/513649767729987585/1193470262889418772/Screenshot_2024-01-07-13-47-50-133_com.JetSetGoo.jpg?ex=65acd4cc&is=659a5fcc&hm=a1d59110c60697242216533bbb8f0e605bda610c3aa2922b9dc47eefd690eefd&
+https://cdn.discordapp.com/attachments/513649767729987585/1193470262641950760/Screenshot_2024-01-07-13-47-53-168_com.JetSetGoo.jpg?ex=65acd4cc&is=659a5fcc&hm=27a186e688a937b853435876a511c4d00633ed59671558b59086b3c07710fab7&
 
 # Getting Started
 
