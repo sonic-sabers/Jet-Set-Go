@@ -7,7 +7,7 @@ This project includes the flight booking flow along with seat selection which is
 
 |                          Modal Filter                        |                          Flight Details Screen                 |                         Flight Seating                        |
 | :-----------------------------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------------------------: |
-![](/Screen-ui/AppliedBottomFilter.png)| ![](/Screen-ui/FlightDetails.png)| ![](/Screen-ui/FlightSeatBooking.png)| 
+![](/Screen-ui/ApplliedBottomFilter.png)| ![](/Screen-ui/FlightDetails.png)| ![](/Screen-ui/FlightSeatBooking.png)| 
 |                          Cost Breakup                         |
 | :-----------------------------------------------------------: |
 ![](/Screen-ui/CostBreakup.png)| 
