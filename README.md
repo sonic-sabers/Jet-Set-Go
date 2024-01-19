@@ -12,6 +12,7 @@ This project includes the flight booking flow along with seat selection which is
 | :-----------------------------------------------------------: |
 ![](/Screen-ui/CostBreakup.png)| 
 
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
